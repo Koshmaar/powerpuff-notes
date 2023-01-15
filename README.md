@@ -38,6 +38,18 @@ That makes it easy to compare if price goes up or down.
 internet, ie. prices of certain goods, and not only saving them to note, but also
 creating charts to get quick visual understanding of data.
 
+### Other features
+
+1. Grouping notes based on intended sharing levels:
+- public (maybe for public-key type of things, which could be on homepage) 
+- private
+- family (shared with wife and kids)
+- work
+
+Potentially flexibly creating those groups.
+
+2. Search is done on frontend, so that no round trips need to be done.
+
 
 ## Technical details
 
